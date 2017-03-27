@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KeylessEntryApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="lock">Lock</string>
+    <string name="lock_2">Lock*2</string>
+    <string name="unlock">Unlock</string>
+    <string name="unlock_2">Unlock*2</string>
+</resources>
